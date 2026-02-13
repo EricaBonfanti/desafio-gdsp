@@ -1,0 +1,149 @@
+/*Érica Bonfanti Corrêa*/
+
+body{
+    background: #023d56;
+    max-width: 400px;
+    margin: 0 auto;
+    background-image: url("../images/background.png");
+    background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+}
+
+.td-container{
+    font: normal 20pt Arial;
+    background: #52828d;
+    color: white;
+    width:400px;
+    height: 400px;
+    line-height: 50px;
+    text-align: center;
+    border-radius:10px 10px 10px 10px;
+    box-shadow: 10px 2px 5px #04212f3e;
+    padding-top: 12px;
+     margin-top: 150px;
+    
+}
+
+/*  Quando clicar na tarefa, add cor para mostrar que finalizou.*/
+.finish{
+    background-color: #023d56;
+    color: white;
+    border-color: #012535;
+}
+
+.td-form{
+    font: normal 20pt Arial;
+    color: white;
+    width:300px;
+    height: 400px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#td-input{
+    height: 40px;
+    width: 300px;
+    border: 2px solid #023d56;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none; 
+}
+
+
+/*Botão de +*/
+.btn{
+    height: 40px;
+    width: 40px;
+    border: 2px solid #012535;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    background: #023d56;
+    color: white;
+}
+
+.btn:hover{
+    background: #013247;
+    color: white;
+}
+
+.btn:active{
+    background: #001f2d;
+    color: white;
+}
+
+/*Botão de delete x*/
+button{
+    height: 30px;
+    border: 2px solid #400606;
+    background: #670b0b;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #ffffff;
+}
+
+button:hover{
+    background: #670b0b;
+    color: white;
+}
+
+button:active{
+    background: #410404;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    border-radius: 10px;
+    color: #001f2d;
+    background-color: #52828d;
+}
+
+li {
+    width: 320px;
+    min-height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border: 2px solid #023d56;
+    border-radius: 10px;
+    background: azure;
+
+    font-size: 14px;
+    text-align: left;
+    padding: 4px 4px;
+}
+
+
+footer {
+    padding: 10px 0;
+    width: 100%;
+    color: #ffffff;
+}
+
+#footer-div {
+    max-width: 1400px;
+    padding: 0 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     padding-top: 95px;
+      text-decoration: none;
+}
+
+/*Remover cor dos links*/
+a:link {
+   color: rgb(255, 255, 255);
+}
+
+/* link que foi visitado */
+a:visited {
+    color: rgb(255, 255, 255);
+    
+}
