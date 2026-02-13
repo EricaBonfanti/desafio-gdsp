@@ -6,7 +6,7 @@
 ### Desafio gdsp front-end
 
 <p align="center
-  <img src="https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-green?style=for-the-badge" alt="Tecnologias Front-end">
+  ![Front-end](https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-green?style=for-the-badge)
 </p>
 </div>
 
