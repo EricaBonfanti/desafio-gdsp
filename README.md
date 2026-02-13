@@ -3,11 +3,7 @@
 ![Banner](images/banner.png)
 
 # AgroList
-### Desafio gdsp front-end
-
-<p align="center
-  ![Front-end](https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-green?style=for-the-badge)
-</p>
+###  Desafio gdsp front-end
 </div>
 
 ---
