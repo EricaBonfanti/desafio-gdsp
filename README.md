@@ -12,7 +12,7 @@
 
 ```+
 ! O AgroList surgiu a partir de uma proposta de desafio para criar uma to-do list, onde as principais stacks seriam: JavaScript, CSS e HTML.
-! Por que AgroList? Agro vem de agronegócio, que é uma identidade da empresa AGPR5, e List vem de to-do list.
+! Por que AgroList? Agro vem de agronegócio e List vem de to-do list.
 ```
 ```+
 ! No AgroList, você pode adicionar tarefas, marcá-las como concluídas e também excluí-las.
