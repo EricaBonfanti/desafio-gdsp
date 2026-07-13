@@ -3,7 +3,7 @@
 ![Banner](images/banner.png)
 
 # AgroList
-### 🌱 Desafio gdsp front-end
+### 🌱 Desafio front-end
 </div>
 
 ---
